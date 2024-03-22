@@ -63,7 +63,6 @@ This will scrape and analyze the first 5 URLs listed in `Input.xlsx`.
 
 ## Important mentions
 
-- I didn't get any output data structure spreadsheet for the format of my output in the drive link.
 
 - I have used ``` python -m nltk.downloader punkt```
 to download the `Punkt` tokenizer, a pre-trained unsupervised machine learning model provided by the Natural Language Toolkit (nltk) library, for   sentence tokenization and word tokenization.
