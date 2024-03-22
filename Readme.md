@@ -1,4 +1,4 @@
-# NLP Analysis Project
+# Web Scrapping and NLP Analysis Project
 
 This project is designed to scrape articles from given URLs, extract their content, and perform Natural Language Processing (NLP) analysis on the text. The output of the analysis is saved in an Excel file.
 
