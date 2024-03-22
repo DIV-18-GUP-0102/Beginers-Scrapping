@@ -83,7 +83,7 @@ And the `PERCENTAGE OF COMPLEX WORDS` as the count of words having more than 2 s
 
 - For `COMPLEX WORD COUNT` I not only had the Proper noun removed from word list but also had duplicity removed.
 
-- As mentioned in the instruction the `WORD COUNT` is calculated for the cleaned list of words.
+- The `WORD COUNT` is calculated for the cleaned list of words.
 
 - For `SYLLABLE PER WORD`, I again used the list with proper nouns removed, `filtered_words`.
 
