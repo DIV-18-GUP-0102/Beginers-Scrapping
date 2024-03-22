@@ -73,7 +73,7 @@ to download the `Punkt` tokenizer, a pre-trained unsupervised machine learning m
   - POLARITY SCORE
   - SUBJECTIVITY SCORE
 
-  I used the `filtered_words_2` list which is the list of words excluding any stopwords provided in the Assignment.
+  I used the `filtered_words_2` list which is the list of words excluding any stopwords.
  
 - In **Fog Index**, I have calculated the `AVG SENTENCE LENGTH` as the 
  `Sum of the total number of words(Including stopwords and duplicate words)/ total number of sentences`
