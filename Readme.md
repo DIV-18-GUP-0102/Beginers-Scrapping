@@ -12,17 +12,17 @@ project/
 ├── requirements.txt
 ├── README.md
 └── text_files/
-├── blackassign001.txt.txt
-├── blackassign002.txt.txt
-└── ...
+  ├── blackassign001.txt.txt
+  ├── blackassign002.txt.txt
+  └── ...
 └── utils/
-├── init.py
-├── web.py
-├── analysis.py
-├── generic.txt
-├── ProperNoun.txt
-├── negative.txt
-└── positive.txt
+  ├── init.py
+  ├── web.py
+  ├── analysis.py
+  ├── generic.txt
+  ├── ProperNoun.txt
+  ├── negative.txt
+  └── positive.txt
 ```
 
 - `main.py`: The main script to execute the NLP analysis on articles.
